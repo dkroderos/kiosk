@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 65px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: #fff;
+}
+
+.container {
+  width: 500px;
+  height: 400px;
+  margin: 30px auto;
+  box-shadow: 0 0 5px 3px white;
+  background-color: black;
+  border-radius: 10px;
+}
+
+a {
+  display: block;
+  text-align: center;
+  background-color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: medium;
+  color: black;
+}
+
+h1 {
+  padding: 30px;
+  font-size: 36px;
+}
